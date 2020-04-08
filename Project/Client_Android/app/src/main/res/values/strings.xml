@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pois Recommendator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_scrolling">Recommended Pois: </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_scrollingtest">Scrollingtest</string>
+    <string name="title_activity_scrolling2">ScrollingActivity2</string>
+    <string name="title_activity_scrolling3">ScrollingActivity3</string>
+    <string-array name="cat_array">
+        <item>All categories</item>
+        <item>Food</item>
+        <item>Arts and Entertainment</item>
+        <item>Bars</item>
+    </string-array>
+
+</resources>
